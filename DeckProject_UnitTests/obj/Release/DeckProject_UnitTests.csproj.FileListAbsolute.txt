@@ -1,0 +1,8 @@
+C:\Dev\DeckProject\DeckProject_UnitTests\bin\Release\DeckProject_UnitTests.dll
+C:\Dev\DeckProject\DeckProject_UnitTests\bin\Release\DeckProject_UnitTests.pdb
+C:\Dev\DeckProject\DeckProject_UnitTests\bin\Release\DeckProjectLib.dll
+C:\Dev\DeckProject\DeckProject_UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\DeckProject\DeckProject_UnitTests\bin\Release\DeckProjectLib.pdb
+C:\Dev\DeckProject\DeckProject_UnitTests\obj\Release\DeckProject_UnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\DeckProject\DeckProject_UnitTests\obj\Release\DeckProject_UnitTests.dll
+C:\Dev\DeckProject\DeckProject_UnitTests\obj\Release\DeckProject_UnitTests.pdb

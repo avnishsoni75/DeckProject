@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckProject_UnitTests", "DeckProject_UnitTests\DeckProject_UnitTests.csproj", "{1219B7CC-2BE7-4AC8-BFA6-39AA1BBA770E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckProjectLib", "DeckProjectLib\DeckProjectLib.csproj", "{956EAF7B-785C-45B7-BBDD-E7CD35BD4C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckProjectClient", "DeckProjectClient\DeckProjectClient.csproj", "{7A364B18-8A39-4561-821E-4B606666D0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1219B7CC-2BE7-4AC8-BFA6-39AA1BBA770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1219B7CC-2BE7-4AC8-BFA6-39AA1BBA770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1219B7CC-2BE7-4AC8-BFA6-39AA1BBA770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1219B7CC-2BE7-4AC8-BFA6-39AA1BBA770E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956EAF7B-785C-45B7-BBDD-E7CD35BD4C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956EAF7B-785C-45B7-BBDD-E7CD35BD4C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956EAF7B-785C-45B7-BBDD-E7CD35BD4C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956EAF7B-785C-45B7-BBDD-E7CD35BD4C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A364B18-8A39-4561-821E-4B606666D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A364B18-8A39-4561-821E-4B606666D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A364B18-8A39-4561-821E-4B606666D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A364B18-8A39-4561-821E-4B606666D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

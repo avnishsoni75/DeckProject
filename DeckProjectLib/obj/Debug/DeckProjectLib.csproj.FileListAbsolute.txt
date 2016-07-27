@@ -1,0 +1,4 @@
+C:\Dev\DeckProject\DeckProjectLib\bin\Debug\DeckProjectLib.dll
+C:\Dev\DeckProject\DeckProjectLib\bin\Debug\DeckProjectLib.pdb
+C:\Dev\DeckProject\DeckProjectLib\obj\Debug\DeckProjectLib.dll
+C:\Dev\DeckProject\DeckProjectLib\obj\Debug\DeckProjectLib.pdb

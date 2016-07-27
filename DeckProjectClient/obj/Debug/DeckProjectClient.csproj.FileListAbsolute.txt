@@ -1,0 +1,8 @@
+C:\Dev\DeckProject\DeckProjectClient\bin\Debug\DeckProjectClient.exe.config
+C:\Dev\DeckProject\DeckProjectClient\bin\Debug\DeckProjectClient.exe
+C:\Dev\DeckProject\DeckProjectClient\bin\Debug\DeckProjectClient.pdb
+C:\Dev\DeckProject\DeckProjectClient\bin\Debug\DeckProjectLib.dll
+C:\Dev\DeckProject\DeckProjectClient\bin\Debug\DeckProjectLib.pdb
+C:\Dev\DeckProject\DeckProjectClient\obj\Debug\DeckProjectClient.exe
+C:\Dev\DeckProject\DeckProjectClient\obj\Debug\DeckProjectClient.pdb
+C:\Dev\DeckProject\DeckProjectClient\obj\Debug\DeckProjectClient.csprojResolveAssemblyReference.cache
